@@ -4,10 +4,10 @@ Deploy a simple web application (printing Hello, World!) on AWS using EC2 instan
 
 **Project Architecture**
 
--Launching Auto scaling group
--Creating Aplication Load Balancer 
--Sending SNS topic
--CloudWatch Alarm
+.Launching Auto scaling group
+.Creating Aplication Load Balancer 
+.Sending SNS topic
+.CloudWatch Alarm
 
 
 
